@@ -1,0 +1,38 @@
+.whole{
+    //background-color: #d1ceca;
+}
+#wel{
+  font-family: serif; 
+  color: #eeb21d;
+}
+.col-md-9 #leftcontent{
+    float:left;
+    width:15%;
+}
+.col-md-9 #rightcontent{
+    float:right;
+    width: 85%;
+    /*border:2px solid #000;*/
+}
+#sideright{
+    /*border:1px solid green;*/
+}
+.clear-float{
+    clear:both;
+}
+#address{
+    text-align: justify
+}
+#address p{
+    color:#666666;
+}
+.slides{
+    /*border:1px solid red;*/
+    height:400px;
+}
+.social h5{
+    color:white;
+    font-weight: bolder;
+    font-size: 17px;
+    font-family: Gill, Helvetica, sans-serif;
+}
